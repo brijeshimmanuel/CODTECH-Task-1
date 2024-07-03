@@ -11,7 +11,7 @@
 <body>
     <nav>
         <div class="navbar-mainlogo">
-            <img class="navbar-n" src="https://cdn1.iconfinder.com/data/icons/capsocial/500/iconfinder-512.png"
+            <img class="navbar-n" src="https://static.vecteezy.com/system/resources/previews/004/753/030/original/portfolio-icon-shadowed-detailed-portfolio-logo-free-vector.jpg"
                 alt="logo">
         </div>
         <div class="navbar-mainhead">
@@ -22,17 +22,17 @@
             </h1>
         </div>
         <div class="navbar-mainsocials">
-            <a href="https://www.linkedin.com/in/kartikey-here/">
+            <a href="https://www.linkedin.com/feed/">
                 <img class="navbar-n"
                     src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-square1-512.png"
                     alt="linkedin">
             </a>
-            <a href="https://www.instagram.com/kartikey_._here/">
+            <a href="https://www.instagram.com/?hl=en">
                 <img class="navbar-n"
                     src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png"
                     alt="ig">
             </a>
-            <a href="https://twitter.com/kartikey_here">
+            <a href="https://x.com/home?lang=en-in">
                 <img class="navbar-n"
                     src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-twitter-square2-512.png"
                     alt="twitter">
