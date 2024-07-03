@@ -6,4 +6,4 @@ Duration:JUNE 15 TO JULY 15
 
 OVERVIEW OF THE PROJECT
 THE PAGE IS CREATED TO ENQUIRY THE CARS
-![Screenshot 2024-07-03 150605](https://github.com/brijeshimmanuel/CODTECH-Task-1/assets/145130709/3cd592c8-676e-4d80-8df2-eef733f9b743)
+![Screenshot 2024-07-03 172212](https://github.com/brijeshimmanuel/CODTECH-Task-1/assets/145130709/1b092997-3359-4265-9985-992ae0e08eb9)
